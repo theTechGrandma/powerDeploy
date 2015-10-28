@@ -1,0 +1,9 @@
+Job,PathToBinaries
+Deploy,\\192.168.20.160\c$\Temp\Stuff\Configs
+Deploy,\\192.168.20.159\c$\Temp\Stuff\Configs
+Deploy,\\192.168.20.160\c$\Temp\Stuff\Scripts
+Deploy,\\192.168.20.159\c$\Temp\Stuff\Scripts
+Web,\\192.168.20.160\c$\inetpub\wwwroot\DSTSM3.0_Test
+Delegator,\\192.168.20.160\c$\Program Files\ProModel\Delegation4.0_Test
+WHS,\\192.168.20.159\c$\Program Files\ProModel\WHS 4.0 Test
+WHS,\\192.168.20.159\c$\Program Files\ProModel\WHS 4.0 TST2

@@ -1,0 +1,4 @@
+Computer,ServiceName
+192.168.20.160,DSTM Delegation Service 4.0_Test
+192.168.20.159,DST:SM WHS 4.0 Test
+192.168.20.159,DST:SM WHS 4.0 TST2
